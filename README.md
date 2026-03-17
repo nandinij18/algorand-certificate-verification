@@ -23,4 +23,4 @@ To prevent fake certificates using blockchain technology.
 3. Run the project
 
 ## Author
-Your Name
+Jarugula Nandini
